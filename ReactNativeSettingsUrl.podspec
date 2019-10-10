@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "ReactNativeSettingsUrl"
   s.version      = "1.0.0"
-  s.summary      = ""
+  s.summary      = "ReactNativeSettingsUrl"
   s.homepage     = "git@github.com:webmoney-corp/react-native-settings-url.git"
   s.license      = { :type => "MIT" }
   s.authors      = { "Webmoney" => "" }
